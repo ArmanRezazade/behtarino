@@ -1,0 +1,19 @@
+.starRating {
+    display: flex;
+    align-items: flex-end;
+}
+
+.star {
+    color: gray;
+    font-size: 2.5rem;
+}
+
+.activeStar {
+    color: orange;
+}
+
+.rate {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-left: 10px;
+}
